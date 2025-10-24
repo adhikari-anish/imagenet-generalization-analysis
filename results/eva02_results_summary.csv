@@ -1,0 +1,2 @@
+model,feat_dim,best_alpha,best_epochs,internal_val_acc,final_val_acc,final_v2_acc,time_scaler_tune_s,time_scaler_final_s,time_train_final_s,time_eval_s
+"EVA-02 SGD logreg (streaming, HPO on train-holdout)",1024,0.001,3,0.9456,0.8949,0.8182,105.4,102.9,9749.7,5.1
